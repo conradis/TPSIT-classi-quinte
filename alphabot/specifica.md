@@ -1,5 +1,7 @@
 FORMATO MESSAGGIO PERCORSI: "end,start"
 
+FORMATO RISPOSTA PERCORSI: "0.0, <percorso>"
+
 FORMATO MESSAGGIO IMMAGINE: "STARTIMG", streaming immagine, "ENDIMG"
 
 ERRORI:
@@ -9,7 +11,7 @@ ERRORI:
 4) perdita connessione (3.1)
 5) errore generico (4.1)
 
-FORMATO MESSAGGI ERRORE: "x.y, descrizione"
+FORMATO MESSAGGI ERRORE: "x.y, <descrizione>"
 
 IMPLEMENTARE LOG con la libreria logging.
 
