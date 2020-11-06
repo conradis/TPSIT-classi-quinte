@@ -1,5 +1,6 @@
 FORMATO MESSAGGIO PERCORSI: "end,start"
 
+FORMATO MESSAGGIO IMMAGINE: "STARTIMG", streaming immagine, "ENDIMG"
 
 ERRORI:
 1) percorso non trovato (1.1)
